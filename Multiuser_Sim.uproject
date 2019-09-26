@@ -3,5 +3,12 @@
 	"EngineAssociation": "4.23",
 	"Category": "",
 	"Description": "",
-	"Enterprise": true
+	"Enterprise": true,
+	"Modules": [
+		{
+			"Name": "Multiuser_Sim",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
