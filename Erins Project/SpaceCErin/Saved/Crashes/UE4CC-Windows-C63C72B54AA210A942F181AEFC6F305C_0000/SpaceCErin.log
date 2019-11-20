@@ -1,0 +1,934 @@
+﻿Log file open, 11/13/19 12:49:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SpaceCErin
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.087851
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin DatasmithC4DImporter
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithIFCImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6650U CPU @ 2.20GHz, GPU: Intel(R) Iris(R) Graphics 540
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername="Erin Cana" -epicuserid=137fe59793114a33b7e6517a762007fe -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.13-18.49.18:094][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.13-18.49.18:094][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.13-18.49.18:094][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Engine.ini]
+[2019.11.13-18.49.18:094][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.13-18.49.18:094][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Engine.ini]
+[2019.11.13-18.49.18:094][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Engine.ini]
+[2019.11.13-18.49.18:094][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.13-18.49.18:094][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.13-18.49.18:094][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.13-18.49.18:094][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.13-18.49.18:094][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Engine.ini]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.13-18.49.18:095][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Engine.ini]
+[2019.11.13-18.49.18:095][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Engine.ini]
+[2019.11.13-18.49.18:099][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.13-18.49.18:099][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.13-18.49.18:100][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.13-18.49.18:100][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.13-18.49.18:100][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.13-18.49.18:103][  0]LogHAL: Display: Platform has ~ 8 GB [8511586304 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.13-18.49.18:103][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.13-18.49.18:103][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-18.49.18:103][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.13-18.49.18:103][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.13-18.49.18:103][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-18.49.18:103][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.13-18.49.18:103][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-18.49.18:103][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.13-18.49.18:103][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.13-18.49.18:103][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.13-18.49.18:103][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.13-18.49.18:103][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.13-18.49.18:103][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.13-18.49.18:103][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.13-18.49.18:103][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.13-18.49.18:103][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.13-18.49.18:103][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.13-18.49.18:104][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.13-18.49.18:105][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.13-18.49.18:105][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.13-18.49.18:105][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.13-18.49.18:105][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Scalability.ini]
+[2019.11.13-18.49.18:105][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.13-18.49.18:105][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.13-18.49.18:105][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.13-18.49.18:105][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.13-18.49.18:105][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.13-18.49.18:105][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Config/Windows/Engine.ini]
+[2019.11.13-18.49.18:105][  0]LogInit: Computer: EGC-SP4
+[2019.11.13-18.49.18:105][  0]LogInit: User: SRFCPROEGWC
+[2019.11.13-18.49.18:105][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.11.13-18.49.18:105][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.13-18.49.18:105][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.11.13-18.49.18:105][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.13-18.49.18:105][  0]LogMemory: Process Physical Memory: 100.74 MB used, 100.75 MB peak
+[2019.11.13-18.49.18:105][  0]LogMemory: Process Virtual Memory: 99.84 MB used, 99.84 MB peak
+[2019.11.13-18.49.18:105][  0]LogMemory: Physical Memory: 6855.61 MB used,  1261.67 MB free, 8117.28 MB total
+[2019.11.13-18.49.18:105][  0]LogMemory: Virtual Memory: 4651.61 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.11.13-18.49.18:108][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.13-18.49.18:132][  0]LogInit: Using OS detected language (en-US).
+[2019.11.13-18.49.18:132][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.13-18.49.18:133][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.13-18.49.18:323][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.13-18.49.18:373][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.13-18.49.18:373][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.13-18.49.18:613][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.13-18.49.18:613][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.13-18.49.18:640][  0]LogD3D11RHI:    0. 'Intel(R) Iris(R) Graphics 540' (Feature Level 11_0)
+[2019.11.13-18.49.18:640][  0]LogD3D11RHI:       128/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.11.13-18.49.18:643][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.13-18.49.18:643][  0]LogD3D11RHI:       0/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.13-18.49.18:643][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.13-18.49.18:650][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.13-18.49.18:650][  0]LogD3D11RHI:     GPU DeviceId: 0x1926 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.13-18.49.18:650][  0]LogWindows: EnumDisplayDevices:
+[2019.11.13-18.49.18:650][  0]LogWindows:    0. 'Intel(R) Iris(R) Graphics 540' (P:1 D:1)
+[2019.11.13-18.49.18:651][  0]LogWindows:    1. 'Intel(R) Iris(R) Graphics 540' (P:0 D:0)
+[2019.11.13-18.49.18:651][  0]LogWindows:    2. 'Intel(R) Iris(R) Graphics 540' (P:0 D:0)
+[2019.11.13-18.49.18:651][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.11.13-18.49.18:651][  0]LogD3D11RHI:     Adapter Name: Intel(R) Iris(R) Graphics 540
+[2019.11.13-18.49.18:651][  0]LogD3D11RHI:   Driver Version: 24.20.100.6299 (internal:24.20.100.6299, unified:24.20.100.6299)
+[2019.11.13-18.49.18:651][  0]LogD3D11RHI:      Driver Date: 10-11-2018
+[2019.11.13-18.49.18:651][  0]LogRHI: Texture pool is 1510 MB (70% of 2157 MB)
+[2019.11.13-18.49.18:673][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.13-18.49.18:686][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.11.13-18.49.19:067][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.13-18.49.19:077][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.13-18.49.19:087][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.13-18.49.19:098][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.13-18.49.19:108][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.13-18.49.19:118][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.13-18.49.19:128][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.13-18.49.19:139][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.13-18.49.19:144][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.13-18.49.19:184][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.13-18.49.19:184][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.13-18.49.19:184][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.13-18.49.19:184][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.13-18.49.19:185][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.13-18.49.19:185][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.13-18.49.19:185][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.13-18.49.19:185][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.13-18.49.19:185][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.13-18.49.19:185][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.13-18.49.19:185][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.13-18.49.19:185][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.13-18.49.19:185][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.13-18.49.19:185][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.13-18.49.19:185][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.13-18.49.19:185][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.13-18.49.19:185][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.13-18.49.19:185][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.13-18.49.19:187][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.13-18.49.19:208][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.13-18.49.19:208][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.13-18.49.19:224][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.13-18.49.19:224][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.13-18.49.19:232][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.13-18.49.19:240][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.13-18.49.19:248][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.13-18.49.19:257][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.13-18.49.19:288][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.13-18.49.19:288][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.13-18.49.19:288][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.13-18.49.19:301][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.13-18.49.19:369][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Intermediate/Shaders/WorkingDirectory/236/).
+[2019.11.13-18.49.19:369][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SRFCPRO-EGWC/AppData/Local/Temp/UnrealShaderWorkingDir/D95A016A4FE6FE842D710A978330DA50/'.
+[2019.11.13-18.49.19:372][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.13-18.49.19:372][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.13-18.49.19:372][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.13-18.49.20:084][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.13-18.49.20:149][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/SRFCPRO-EGWC/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.13-18.49.20:150][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SRFCPRO-EGWC/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.13-18.49.20:150][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.13-18.49.20:150][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.13-18.49.20:150][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.13-18.49.20:150][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.13-18.49.20:163][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.13-18.49.20:165][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.11.13-18.49.20:167][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SRFCPRO-EGWC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.13-18.49.20:167][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.13-18.49.20:167][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.13-18.49.20:202][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.13-18.49.20:206][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.13-18.49.20:207][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.13-18.49.20:278][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2019.11.13-18.49.20:595][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.13-18.49.20:755][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.13-18.49.20:755][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.13-18.49.20:755][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.13-18.49.20:755][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.13-18.49.20:755][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.13-18.49.20:767][  0]LogNetVersion: SpaceCErin 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3182642854)
+[2019.11.13-18.49.21:221][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.066682 seconds
+[2019.11.13-18.49.21:228][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.13-18.49.21:228][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.13-18.49.21:228][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.13-18.49.22:173][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.13-18.49.22:176][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.13-18.49.22:233][  0]SourceControl: Source control is disabled
+[2019.11.13-18.49.22:233][  0]SourceControl: Source control is disabled
+[2019.11.13-18.49.22:234][  0]SourceControl: Source control is disabled
+[2019.11.13-18.49.22:236][  0]SourceControl: Source control is disabled
+[2019.11.13-18.49.22:245][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.13-18.49.22:246][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.13-18.49.22:620][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.13-18.49.22:706][  0]LogOcInput: OculusInput pre-init called
+[2019.11.13-18.49.22:714][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.13-18.49.22:714][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.13-18.49.28:277][  0]LogEngine: Initializing Engine...
+[2019.11.13-18.49.28:278][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.13-18.49.28:279][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.13-18.49.28:524][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.13-18.49.28:542][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.13-18.49.28:757][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.13-18.49.29:343][  0]LogInit: FAudioDevice initialized.
+[2019.11.13-18.49.29:343][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.13-18.49.29:469][  0]LogDerivedDataCache: Saved boot cache 0.13s 74MB C:/Users/SRFCPRO-EGWC/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.13-18.49.29:473][  0]LogInit: Texture streaming: Enabled
+[2019.11.13-18.49.29:497][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.13-18.49.29:497][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.11.13-18.49.29:503][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.11.13-18.49.29:563][  0]LogInit: Transaction tracking system initialized
+[2019.11.13-18.49.29:604][  0]BlueprintLog: New page: Editor Load
+[2019.11.13-18.49.29:703][  0]LocalizationService: Localization service is disabled
+[2019.11.13-18.49.29:802][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.13-18.49.29:803][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.13-18.49.30:077][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Content/' took 0.00s
+[2019.11.13-18.49.30:077][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.13-18.49.30:077][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.13-18.49.31:956][  0]SourceControl: Source control is disabled
+[2019.11.13-18.49.31:956][  0]Cmd: MAP LOAD FILE="../../../../../../Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.13-18.49.31:957][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.11.13-18.49.31:957][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.13-18.49.31:957][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.339ms to complete.
+[2019.11.13-18.49.31:957][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.001
+[2019.11.13-18.49.32:221][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-18.49.32:233][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-18.49.32:241][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-18.49.32:250][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-18.49.32:271][  0]LogCollectionManager: Loaded 0 collections in 0.002086 seconds
+[2019.11.13-18.49.32:319][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/Collections/' took 0.00s
+[2019.11.13-18.49.32:319][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Content/Developers/SRFCPROEGWC/Collections/' took 0.00s
+[2019.11.13-18.49.32:319][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Content/Collections/' took 0.00s
+[2019.11.13-18.49.32:319][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.11.13-18.49.32:333][  0]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 3045 classes and 765 folders.
+[2019.11.13-18.49.32:358][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.13-18.49.32:614][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.13-18.49.32:626][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.11.13-18.49.32:884][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.13-18.49.32:887][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.13-18.49.32:903][  0]LogSlate: Took 0.004390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.13-18.49.33:150][  0]LogRenderer: Reallocating scene render targets to support 984x556 Format 10 NumSamples 1 (Frame:1).
+[2019.11.13-18.49.33:831][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.13-18.49.33:831][  0]LogLoad: (Engine Initialization) Total time: 17.27 seconds
+[2019.11.13-18.49.33:831][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.13-18.49.33:897][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.13-18.49.34:043][  2]LogAssetRegistry: Asset discovery search completed in 13.7658 seconds
+[2019.11.13-18.49.34:051][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2019.11.13-18.49.34:051][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000146 seconds (updated 0 objects)
+[2019.11.13-18.49.34:902][ 31]LogSlate: Took 0.002764 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.13-18.49.45:385][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-18.49.49:488][672]LogAIModule: Creating AISystem for world Habitat_Builder
+[2019.11.13-18.49.49:499][672]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Habitat_Builder.Habitat_Builder
+[2019.11.13-18.49.49:527][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.11.13-18.49.49:528][672]Cmd: MAP LOAD FILE="../../../../../../Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Content/Maps/Habitat_Builder.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.13-18.49.49:529][672]LightingResults: New page: Lighting Build
+[2019.11.13-18.49.49:533][672]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.11.13-18.49.49:534][672]LoadErrors: New page: Loading map: Habitat_Builder.umap
+[2019.11.13-18.49.49:534][672]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.13-18.49.49:535][672]MapCheck: New page: Map Check
+[2019.11.13-18.49.49:535][672]LightingResults: New page: Lighting Build
+[2019.11.13-18.49.49:557][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.11.13-18.49.49:621][672]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.13-18.49.49:643][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.11.13-18.49.49:664][672]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.13-18.49.49:664][672]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.177ms to complete.
+[2019.11.13-18.49.49:664][672]LogFileHelpers: Loading map 'Habitat_Builder' took 0.137
+[2019.11.13-18.49.57:583][904]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.11.13-18.49.57:988][904]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.11.13-18.49.59:163][904]LogSlate: Took 0.003493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.13-18.49.59:446][905]LogSlate: Took 0.001888 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.13-18.50.04:162][ 51]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.11.13-18.50.04:179][ 51]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.11.13-18.50.04:188][ 51]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.11.13-18.50.05:487][ 91]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.13-18.50.05:539][ 91]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder' with GeneratedClass '/Game/Maps/Habitat_Builder.Habitat_Builder_C' with ClassGeneratedBy '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder'
+[2019.11.13-18.50.05:541][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.13-18.50.05:543][ 91]PIE: New page: PIE session: Habitat_Builder (Nov 13, 2019, 6:50:05 AM)
+[2019.11.13-18.50.05:549][ 91]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.11.13-18.50.05:552][ 91]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Habitat_Builder
+[2019.11.13-18.50.05:557][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004026s)
+[2019.11.13-18.50.05:558][ 91]LogAIModule: Creating AISystem for world Habitat_Builder
+[2019.11.13-18.50.05:558][ 91]LogPlayLevel: PIE: World Init took: (0.002777s)
+[2019.11.13-18.50.05:559][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Habitat_Builder.Habitat_Builder to /Game/Maps/UEDPIE_0_Habitat_Builder.Habitat_Builder (0.007663s)
+[2019.11.13-18.50.05:619][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.11.13-18.50.05:628][ 91]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.13-18.50.05:645][ 91]LogInit: FAudioDevice initialized.
+[2019.11.13-18.50.05:677][ 91]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.13-18.50.05:685][ 91]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Habitat_Builder.Habitat_Builder up for play (max tick rate 60) at 2019.11.13-12.50.05
+[2019.11.13-18.50.05:688][ 91]LogWorld: Bringing up level for play took: 0.001996
+[2019.11.13-18.50.05:688][ 91]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.11.13-18.50.05:728][ 91]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.11.13-18.50.05:745][ 91]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Habitat_Builder 0.81
+[2019.11.13-18.50.05:745][ 91]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder' with GeneratedClass '/Game/Maps/Habitat_Builder.Habitat_Builder_C' with ClassGeneratedBy '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder'
+[2019.11.13-18.50.07:764][147]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2019.11.13-18.50.07:767][147]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.07:835][150]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.07:947][154]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.08:063][158]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.08:178][162]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.08:300][166]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Shackleton_Clean_Origin_smaller
+[2019.11.13-18.50.08:418][170]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.08:540][174]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.08:659][178]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.08:791][182]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.08:905][186]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.09:026][190]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.09:150][194]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.09:262][198]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.09:384][202]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.09:504][205]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.09:600][209]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.09:723][213]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.09:835][217]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.09:953][221]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.10:066][224]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.10:172][228]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.10:289][232]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.10:409][236]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.10:535][240]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.10:647][244]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.10:765][248]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.10:886][252]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.11:043][256]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.11:172][260]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.11:271][264]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.11:411][268]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.11:530][272]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.11:655][276]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.11:787][280]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.11:909][284]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.12:036][288]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.12:140][291]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.12:270][295]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.12:370][298]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.12:501][302]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.12:621][306]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.12:749][310]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.12:872][314]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.12:972][317]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.13:074][320]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.13:205][324]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.13:305][327]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.13:447][331]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.13:565][335]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.13:721][339]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.13:847][343]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.13:937][346]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.14:071][348]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.14:167][351]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.14:270][354]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.14:369][357]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.14:481][360]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.50.14:582][363]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.50.14:675][366]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.50.14:774][369]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.50.14:876][372]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.50.14:978][375]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.50.15:081][378]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.50.15:183][381]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.50.15:284][384]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.50.15:403][387]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.50.15:498][390]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.50.15:598][393]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.50.15:704][396]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.50.17:889][463]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder' with GeneratedClass '/Game/Maps/Habitat_Builder.Habitat_Builder_C' with ClassGeneratedBy '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder'
+[2019.11.13-18.50.17:891][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-18.50.17:891][463]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Habitat_Builder
+[2019.11.13-18.50.17:891][463]LogWorld: UWorld::CleanupWorld for Habitat_Builder, bSessionEnded=true, bCleanupResources=true
+[2019.11.13-18.50.17:946][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.13-18.50.17:947][463]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder' with GeneratedClass '/Game/Maps/Habitat_Builder.Habitat_Builder_C' with ClassGeneratedBy '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder'
+[2019.11.13-18.50.18:010][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-18.50.18:052][463]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.11.13-18.50.18:079][464]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.11.13-18.50.19:450][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-18.50.19:672][499]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.11.13-18.50.33:878][758]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={E470396A-4B74-430B-AB53-4A9A361222B8}
+[2019.11.13-18.58.16:511][836]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.13-18.58.16:595][836]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder' with GeneratedClass '/Game/Maps/Habitat_Builder.Habitat_Builder_C' with ClassGeneratedBy '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder'
+[2019.11.13-18.58.16:595][836]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.13-18.58.16:608][836]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.11.13-18.58.17:333][836]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2019.11.13-18.58.17:333][836]LogPlayLevel: PlayLevel: Blueprint regeneration took 737 ms (1 blueprints)
+[2019.11.13-18.58.17:333][836]PIE: New page: PIE session: Habitat_Builder (Nov 13, 2019, 6:58:17 AM)
+[2019.11.13-18.58.17:333][836]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Habitat_Builder
+[2019.11.13-18.58.17:338][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004452s)
+[2019.11.13-18.58.17:340][836]LogAIModule: Creating AISystem for world Habitat_Builder
+[2019.11.13-18.58.17:340][836]LogPlayLevel: PIE: World Init took: (0.002463s)
+[2019.11.13-18.58.17:340][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Habitat_Builder.Habitat_Builder to /Game/Maps/UEDPIE_0_Habitat_Builder.Habitat_Builder (0.007108s)
+[2019.11.13-18.58.17:390][836]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.11.13-18.58.17:396][836]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.13-18.58.17:420][836]LogInit: FAudioDevice initialized.
+[2019.11.13-18.58.17:447][836]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.13-18.58.17:450][836]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Habitat_Builder.Habitat_Builder up for play (max tick rate 60) at 2019.11.13-12.58.17
+[2019.11.13-18.58.17:450][836]LogWorld: Bringing up level for play took: 0.001556
+[2019.11.13-18.58.17:451][836]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.11.13-18.58.17:456][836]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Habitat_Builder 0.523
+[2019.11.13-18.58.17:457][836]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder' with GeneratedClass '/Game/Maps/Habitat_Builder.Habitat_Builder_C' with ClassGeneratedBy '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder'
+[2019.11.13-18.58.19:690][885]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 1
+[2019.11.13-18.58.19:690][885]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.19:766][887]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.19:880][890]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.19:997][893]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.20:115][896]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.20:231][899]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.20:350][902]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.20:474][905]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.20:598][908]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.20:716][911]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.20:838][914]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.20:969][917]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.21:094][920]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.21:223][923]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.21:352][926]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.21:484][929]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.21:611][932]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.21:740][935]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.21:867][938]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.22:002][941]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.22:136][944]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.22:263][947]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.22:394][950]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.22:528][953]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.22:657][956]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.22:791][959]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.22:925][962]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.23:063][965]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.23:254][968]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_107_Blueprint
+[2019.11.13-18.58.23:376][971]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_107_Blueprint
+[2019.11.13-18.58.23:511][974]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_107_Blueprint
+[2019.11.13-18.58.23:643][977]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_107_Blueprint
+[2019.11.13-18.58.23:788][980]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_107_Blueprint
+[2019.11.13-18.58.23:926][983]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.24:072][986]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.24:210][989]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.24:349][992]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.24:479][995]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.24:638][998]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.24:769][  1]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.24:901][  4]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.25:035][  7]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.25:174][ 10]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.25:310][ 13]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.25:464][ 16]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.25:585][ 19]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.25:721][ 22]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.25:854][ 25]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.25:993][ 28]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.26:132][ 31]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.26:263][ 34]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.26:394][ 37]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.26:528][ 40]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.26:664][ 43]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.26:809][ 46]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.26:936][ 49]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.27:078][ 52]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.27:212][ 55]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.27:348][ 58]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.27:478][ 61]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.27:613][ 64]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.27:753][ 67]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.27:893][ 70]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.28:033][ 73]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.28:179][ 76]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.28:324][ 79]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.28:472][ 82]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.28:612][ 85]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.28:757][ 88]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.28:861][ 90]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.28:964][ 92]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.58.29:120][ 95]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.29:251][ 98]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.29:396][101]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.29:541][104]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.29:682][107]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.29:820][110]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.29:925][112]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.30:057][115]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.30:196][118]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.30:336][121]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.30:479][124]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.30:618][127]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.30:759][130]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.30:904][133]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.31:003][135]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.31:147][138]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.31:288][141]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.58.34:789][221]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder' with GeneratedClass '/Game/Maps/Habitat_Builder.Habitat_Builder_C' with ClassGeneratedBy '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder'
+[2019.11.13-18.58.34:790][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-18.58.34:790][221]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Habitat_Builder
+[2019.11.13-18.58.34:791][221]LogWorld: UWorld::CleanupWorld for Habitat_Builder, bSessionEnded=true, bCleanupResources=true
+[2019.11.13-18.58.34:918][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.13-18.58.34:920][221]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder' with GeneratedClass '/Game/Maps/Habitat_Builder.Habitat_Builder_C' with ClassGeneratedBy '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder'
+[2019.11.13-18.58.35:021][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-18.58.35:030][221]LogUObjectHash: Compacting FUObjectHashTables data took   7.32ms
+[2019.11.13-18.58.35:083][222]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.11.13-18.58.36:886][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-18.59.34:067][244]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={B2F7D576-4D78-1FD1-3B4A-FE84D6498C91}
+[2019.11.13-18.59.35:646][271]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.13-18.59.35:706][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder' with GeneratedClass '/Game/Maps/Habitat_Builder.Habitat_Builder_C' with ClassGeneratedBy '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder'
+[2019.11.13-18.59.35:706][271]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.13-18.59.35:712][271]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.11.13-18.59.36:255][271]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2019.11.13-18.59.36:255][271]LogPlayLevel: PlayLevel: Blueprint regeneration took 548 ms (1 blueprints)
+[2019.11.13-18.59.36:255][271]PIE: New page: PIE session: Habitat_Builder (Nov 13, 2019, 6:59:36 AM)
+[2019.11.13-18.59.36:255][271]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Habitat_Builder
+[2019.11.13-18.59.36:258][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003090s)
+[2019.11.13-18.59.36:261][271]LogAIModule: Creating AISystem for world Habitat_Builder
+[2019.11.13-18.59.36:261][271]LogPlayLevel: PIE: World Init took: (0.002330s)
+[2019.11.13-18.59.36:261][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Habitat_Builder.Habitat_Builder to /Game/Maps/UEDPIE_0_Habitat_Builder.Habitat_Builder (0.005690s)
+[2019.11.13-18.59.36:314][271]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2019.11.13-18.59.36:323][271]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.13-18.59.36:351][271]LogInit: FAudioDevice initialized.
+[2019.11.13-18.59.36:371][271]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.13-18.59.36:373][271]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Habitat_Builder.Habitat_Builder up for play (max tick rate 60) at 2019.11.13-12.59.36
+[2019.11.13-18.59.36:374][271]LogWorld: Bringing up level for play took: 0.001576
+[2019.11.13-18.59.36:374][271]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.11.13-18.59.36:381][271]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Habitat_Builder 1.447
+[2019.11.13-18.59.36:381][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder' with GeneratedClass '/Game/Maps/Habitat_Builder.Habitat_Builder_C' with ClassGeneratedBy '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder'
+[2019.11.13-18.59.39:087][347]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 0
+[2019.11.13-18.59.39:087][347]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.59.39:169][349]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.59.39:298][352]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.59.39:414][355]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Shackleton_Clean_Origin_smaller
+[2019.11.13-18.59.39:548][358]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Shackleton_Clean_Origin_smaller
+[2019.11.13-18.59.39:677][361]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Shackleton_Clean_Origin_smaller
+[2019.11.13-18.59.39:796][364]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Shackleton_Clean_Origin_smaller
+[2019.11.13-18.59.39:927][367]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Shackleton_Clean_Origin_smaller
+[2019.11.13-18.59.40:055][370]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Shackleton_Clean_Origin_smaller
+[2019.11.13-18.59.40:184][373]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Shackleton_Clean_Origin_smaller
+[2019.11.13-18.59.40:309][376]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Shackleton_Clean_Origin_smaller
+[2019.11.13-18.59.40:429][379]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Shackleton_Clean_Origin_smaller
+[2019.11.13-18.59.40:567][382]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Shackleton_Clean_Origin_smaller
+[2019.11.13-18.59.40:694][385]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Shackleton_Clean_Origin_smaller
+[2019.11.13-18.59.40:821][388]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.59.40:952][391]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.59.41:083][394]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.59.41:216][397]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.59.41:353][400]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.59.41:478][403]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.59.41:608][406]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.59.41:746][409]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.59.41:882][412]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.59.42:011][415]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.59.42:154][418]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] 
+[2019.11.13-18.59.42:291][421]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_107_Blueprint
+[2019.11.13-18.59.42:429][424]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_107_Blueprint
+[2019.11.13-18.59.42:568][427]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.59.42:727][430]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.59.42:854][433]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.59.42:991][436]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.59.43:136][439]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.59.43:287][442]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.59.43:423][445]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.59.43:563][448]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-18.59.43:706][451]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] buildablehab_v3_Cylinder_025
+[2019.11.13-19.00.01:888][894]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder' with GeneratedClass '/Game/Maps/Habitat_Builder.Habitat_Builder_C' with ClassGeneratedBy '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder'
+[2019.11.13-19.00.01:889][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-19.00.01:889][894]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Habitat_Builder
+[2019.11.13-19.00.01:890][894]LogWorld: UWorld::CleanupWorld for Habitat_Builder, bSessionEnded=true, bCleanupResources=true
+[2019.11.13-19.00.01:997][894]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.13-19.00.01:998][894]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder' with GeneratedClass '/Game/Maps/Habitat_Builder.Habitat_Builder_C' with ClassGeneratedBy '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder'
+[2019.11.13-19.00.02:104][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-19.00.02:119][894]LogUObjectHash: Compacting FUObjectHashTables data took  11.41ms
+[2019.11.13-19.00.02:181][895]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.11.13-19.00.12:056][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-19.02.54:755][ 40]LogEditorTransaction: Undo Move Node
+[2019.11.13-19.02.56:140][ 60]LogEditorTransaction: Undo Delete current selection
+[2019.11.13-19.03.18:253][456]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.13-19.03.18:341][456]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder' with GeneratedClass '/Game/Maps/Habitat_Builder.Habitat_Builder_C' with ClassGeneratedBy '/Game/Maps/Habitat_Builder.Habitat_Builder:PersistentLevel.Habitat_Builder'
+[2019.11.13-19.03.18:341][456]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.13-19.03.18:353][456]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.11.13-19.03.18:399][456]LogBlueprint: Warning: [Compiler FirstPersonCharacter] 'Static Mesh Component' does not inherit from 'Actor' ( Cast To StaticMeshComponent  would always fail).
+[2019.11.13-19.03.18:432][456]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a StaticMeshActor, therefore ' Target ' must have a connection.
+[2019.11.13-19.03.18:438][456]LogBlueprint: Error: [Compiler FirstPersonCharacter] Variable node  Get StaticMeshComponent  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.11.13-19.03.19:154][456]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2019.11.13-19.03.19:155][456]LogPlayLevel: PlayLevel: Blueprint regeneration took 813 ms (1 blueprints)
+[2019.11.13-19.03.19:155][456]BlueprintLog: Warning: Blueprint failed to compile:  FirstPersonCharacter
+[2019.11.13-19.03.19:158][456]LogCustomDialog: Dialog displayed:
+[2019.11.13-19.03.21:065][456]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2019.11.13-19.03.24:431][521]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-19.03.24:511][521]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-19.03.42:823][840]LogEditorTransaction: Undo Add Node
+[2019.11.13-19.04.58:906][239]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.13-19.04.58:982][239]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.11.13-19.04.58:982][239]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.11.13-19.04.58:986][239]LogBlueprint: Error: [Compiler FirstPersonCharacter] Variable node  Get RelativeLocation  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.11.13-19.04.59:474][239]LogUObjectHash: Compacting FUObjectHashTables data took   7.73ms
+[2019.11.13-19.05.38:279][908]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.11.13-19.05.38:363][908]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.13-19.05.40:655][908]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.291 s
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: 
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: Ensure condition failed: Component && (Component->GetOuter() == GeneratedClass) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 1173]
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: 
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: Stack: 
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff8094d82b9 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff808041766 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff804ac257c UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff804a73977 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff8066b60e8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff804b6a781 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff804b85d78 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff807697fda UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff80777a262 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff80775ccf4 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff8077f58b8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff8078114b1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff807655231 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff8076db4f1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff8076c52e8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff8076b9c91 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff824974e02 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff8249626df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff824977340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff82495edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff8a3f763ed USER32.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff8a3f75de2 USER32.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff8249788e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff7314f6980 UE4Editor.exe!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff73150a91c UE4Editor.exe!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff73150a9fa UE4Editor.exe!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff73151b92c UE4Editor.exe!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff73151e60e UE4Editor.exe!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff8a3e87bd4 KERNEL32.DLL!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: [Callstack] 0x00007ff8a5c0ced1 ntdll.dll!UnknownFunction []
+[2019.11.13-19.05.40:655][908]LogOutputDevice: Error: 
+[2019.11.13-19.05.40:657][908]LogStats:                SubmitErrorReport -  0.000 s
