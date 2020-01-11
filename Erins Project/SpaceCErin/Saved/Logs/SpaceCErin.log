@@ -2665,3 +2665,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.11-04.34.59:695][ 82]BlueprintLog: New page: Compile FirstPersonCharacter
 [2020.01.11-04.35.00:149][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
 [2020.01.11-04.35.03:844][213]LogSavePackage: Moving '../../../../../../Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/FirstPersonCharacterC5BCF39349B3AF1299BC409B8269CB76.tmp' to '../../../../../../Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.01.11-04.49.16:392][388]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.01.11-04.49.16:788][388]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2020.01.11-04.49.48:153][117]LogEditorTransaction: Undo Delete current selection
+[2020.01.11-04.52.01:090][220]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.01.11-04.52.01:398][220]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.01.11-04.52.02:068][241]LogSavePackage: Moving '../../../../../../Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Saved/FirstPersonCharacterAB1A096C406DDF222C0A64B844A7C5C9.tmp' to '../../../../../../Users/SRFCPRO-EGWC/Documents/GitHub/multiuser/Erins Project/SpaceCErin/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
